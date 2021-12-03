@@ -28,7 +28,7 @@ CREATE TABLE penulis(
 -- INSERT DATA Penulis --
 INSERT INTO penulis(nama, kota) VALUES
 ('Shari Lapena', 'Canada'),
-('John Le Carre', 'England),
+('John Le Carre', 'England'),
 ('Karin Slaughter', 'USA');
 
 -- CREATE TABLE Buku --
